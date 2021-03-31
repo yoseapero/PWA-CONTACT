@@ -1,0 +1,37 @@
+{
+    "short_name": "MyContact",
+    "name": "My Contact",
+    "icons": [
+      {
+        "src": "img/icons/ic_48.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "img/icons/ic_72.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "img/icons/ic_96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "img/icons/ic_144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "img/icons/ic_192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+      
+    ],
+    "start_url": "index.html",
+    "background_color": "#ee6f72",
+    "display": "standalone",
+    "theme_color": "#9e2123"
+    
+  }
